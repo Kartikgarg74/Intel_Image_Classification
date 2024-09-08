@@ -53,11 +53,6 @@ Ensure you have the following libraries installed:
 - Matplotlib
 - Seaborn
 
-You can install the necessary packages using:
-```bash
-pip install -r requirements.txt
-```
-
 ### Training
 
 Run the training for both models using the Jupyter notebook provided. Model 1 is trained from scratch, while Model 2 uses ImageNet pre-trained weights. The training configuration includes:
